@@ -63,6 +63,7 @@ An intelligent web platform designed to guide users through their tech career jo
 
 ## 📱 Screenshots
 
+![Screenshot 2025-04-12 170738](https://github.com/user-attachments/assets/5db1b9d1-dbbe-40b4-9540-1e6e03f59bad)
 
 
 ## 🤝 Contributing
