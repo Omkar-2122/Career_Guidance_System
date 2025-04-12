@@ -67,9 +67,8 @@ An intelligent web platform designed to guide users through their tech career jo
 
 ### 📺 Demo Video
 
-[▶️ Click here to watch the demo](Screen Recording 2025-04-13 002116)
 
-
+[▶️ Click here to watch the demo](./demo.mp4)
 ## 🤝 Contributing
 
 Contributions welcome! Feel free to:
