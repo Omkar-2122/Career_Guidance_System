@@ -1,0 +1,13 @@
+flask==2.0.1
+flask-cors==3.0.10
+cx_Oracle==8.3.0
+bcrypt==3.2.0
+PyJWT==2.1.0
+langchain==0.1.13
+langchain-community==0.0.29
+openai==1.14.2
+python-dotenv
+PyPdf2
+serp
+serpapi
+google-search-results

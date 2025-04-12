@@ -1,0 +1,34 @@
+{
+  "name": "min_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd front_end && npm run dev",
+    "server:node": "cd backend/node && npm run start",
+    "server:python": "cd backend/python && python app.py",
+    "dev": "concurrently \"npm run server:node\" \"npm run server:python\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.9",
+    "concurrently": "^8.2.2",
+    "prisma": "^6.5.0"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@prisma/client": "^6.5.0",
+    "axios": "^1.8.4",
+    "bcryptjs": "^3.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "min_project": "file:",
+    "next-auth": "^4.24.11",
+    "oracledb": "^6.8.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.5.0"
+  }
+}
