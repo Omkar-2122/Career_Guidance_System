@@ -2,7 +2,7 @@
 
 An intelligent web platform designed to guide users through their tech career journey using personalized assessments and expert insights.
 
-![Career Guidance System](./public/preview.png)
+
 
 ## 🚀 Key Features
 
