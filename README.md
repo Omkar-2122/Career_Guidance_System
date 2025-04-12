@@ -72,11 +72,5 @@ Contributions welcome! Feel free to:
 - Create a feature branch
 - Submit pull requests
 
-## 📄 License
 
-MIT License - feel free to use and modify for your projects.
-
-## 📞 Contact
-
-Omkar Amar Chavan - chavano016@gmaail.com
 Project Link: https://github.com/Omkar-2122/Career_Guidance_System.git
